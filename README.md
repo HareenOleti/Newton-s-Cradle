@@ -1,2 +1,2 @@
-# Newton-s-Cradle
-¯\_(ツ)_/¯
+#Newton's Cradle
+Newton's Cradle
